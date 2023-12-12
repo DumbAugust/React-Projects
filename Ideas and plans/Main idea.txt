@@ -1,0 +1,13 @@
+I want to try making a rpg in react
+
+Main concepts
+
+randomly generated dungeons
+Enemies 
+A leveling system
+Loot and items that give modifiers to the player
+a % based scaling of enemies and damage
+
+Plan
+Start by making a movable player.
+then a place for the player to move
